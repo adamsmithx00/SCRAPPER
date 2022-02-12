@@ -2,7 +2,8 @@
   "name": "Scrapper Bot",
   "description": "BETA ANKIT KO PAPA BOTLE HAI",
   "logo": "https://telegra.ph/file/5eb1c8167021a47698828.jpg",
-    "env": {
+  
+  "env": {
       "STRING": {
         "description": "Telethon String Session",
         "value": "",
